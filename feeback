@@ -1,0 +1,77 @@
+1. User Experience (UX)
+
+Ease of Use: Is the prototype intuitive and easy to navigate?
+yes
+
+Engagement: Does it keep users interested and engaged?
+Yes, look good
+
+Accessibility: Can people of all abilities use the prototype effectively?
+
+→ Add feature selection for data sheet tab
+→ leave out neuron/net on model label tab → confusing
+
+2. User Interface (UI)
+
+Visual Design: Are the aesthetics appealing and appropriate for the target audience? fine
+
+Consistency: Is the interface consistent in terms of layout, color, and typography? fine
+Feedback: Does the prototype provide clear feedback to user actions? not yet
+
+3. Functionality
+
+Core Features: Do the main functions of the prototype work as expected? Not yet
+Performance: Is the prototype responsive and quick in its operations? Not yet
+Reliability: Does it function reliably without errors or crashes?  Not yet
+
+
+
+4. Alignment with User Needs
+
+Problem-Solution Fit: Does the prototype address the key problems identified during user
+research?
+
+User Empathy: Does it reflect a deep understanding of user needs and behaviors? Should do that in future; thats why we separate by stakeholder
+
+Scalability: Can the solution grow or adapt based on evolving user needs? yes
+
+
+additional→ provide confusion matrix with percentages instead of absolute numbers
+
+
+5. Innovation and Creativity
+
+Originality: How unique is the approach or solution? fairly
+
+Creativity: Are there novel features or innovative design elements?
+no
+
+Differentiation: Does it stand out from existing solutions?
+Cannot tell
+
+
+6. Feasibility
+
+Technical Feasibility: Is the prototype realistic to build with current technology?
+yes
+
+Resource Feasibility: Can it be developed within budget and time constraints?
+yes
+
+Yes but less models would be easier/faster; maybe train 4 and use the best two
+
+User Adoption: Is the solution likely to be adopted by the target audience?
+it depends on the audience
+
+
+7. Presentation and Communication
+
+Clarity: Is the concept clearly communicated through the prototype:
+yes; very generic
+
+Storytelling: Does the presentation tell a compelling story?
+yes
+
+Feedback Integration: How well does the prototype incorporate feedback from previous
+iterations?
+First iteration!
