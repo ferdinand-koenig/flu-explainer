@@ -11,8 +11,12 @@ The gem of this repository is a streamlit-based app that allows different stakeh
 #### Data Analyis
 ![data-analysis.png](/images/data-analysis.png)
 
+---
+
 #### Model Performance
 ![modelling-1.png](/images/modelling-1.png)
+
+---
 
 #### Model Explanation
 How much does it rely on protected attributes such as sex and chronic medical coniditions?
@@ -22,12 +26,16 @@ How are generally decisions made by the model? How do different values influence
 In this example, how do individual attributes contribute to overall prediction?
 ![model-explanation-shapley.png](images/model-explanation-shapley.png)
 
+---
+
 #### Fairness Analysis
 There are a lot of definitions of fairness. How do they compare? W.r.t. to certain fairness definitions,
 is our algorithm fair?
 ![fairness-1.png](images/fairness-1.png)
 
 ![fairness-2.png](images/fairness-2.png)
+
+---
 
 ### Install and Run
 Make sure you're in the `app` subdirectory (not the zip archive) of this repository.
